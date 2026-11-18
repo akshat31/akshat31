@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://akxat.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20akxat.com-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio at akxat.com" /></a>
-  <a href="https://www.linkedin.com/in/akshat-soni31"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge" alt="Connect with Akshat on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/akxat"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge" alt="Connect with Akshat on LinkedIn" /></a>
   <a href="mailto:akshat.soni31@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email akshat.soni31@gmail.com" /></a>
 </p>
 
@@ -91,11 +91,6 @@ const akshat = {
   <a href="https://github.com/akshat31">
     <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat31&amp;theme=tokyonight&amp;animation=draw&amp;duration=2.5" alt="Akshat's GitHub contribution activity" />
   </a>
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshat31&amp;theme=tokyonight&amp;animation=stagger&amp;duration=2" alt="Akshat's public GitHub statistics" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshat31&amp;theme=tokyonight&amp;animation=draw&amp;duration=2" alt="Languages across Akshat's public repositories" />
 </p>
 
 <p align="center"><sub>A little window into what I've been building on GitHub.</sub></p>
