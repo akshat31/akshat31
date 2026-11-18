@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 The human behind the commits
 
-I'm a software engineer with **7+ years of experience**, frontend roots, and a growing focus on building useful AI applications. I enjoy connecting thoughtful interfaces, reliable backend services, and LLM-powered features into products people can use.
+I'm a software engineer with **7+ years of experience** and a growing focus on building useful AI applications. I enjoy connecting thoughtful interfaces, reliable backend services, and LLM-powered features into products people can use.
 
 ```typescript
 const akshat = {
